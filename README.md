@@ -25,7 +25,7 @@ The script presses and releases the **Num Lock** key every 240 seconds, simulati
 ## How to Use It
 
 ### Step 1: Download the Script
-1. Click this link to **[Download team_Green.ps1](https://github.com/irencj/TeamGreen/raw/main/team_Green.ps1)**.
+1. Click this link to **[Download team_Green.ps1](https://github.com/irencj/TeamGreen/team_Green.ps1)**.
 2. Save the script file to your **Desktop** or any folder you prefer.
 
 ---
